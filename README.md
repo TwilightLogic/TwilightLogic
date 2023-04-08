@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app/](https://portfolio-logic.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app/](https://portfolio-logic.netlify.app/) (building)
 
 - 📝 I regularly write articles on [https://twitter.com/lucas_wixx](https://twitter.com/lucas_wixx)
 

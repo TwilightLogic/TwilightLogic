@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-- 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app/](https://portfolio-logic.netlify.app/) (building)
+- 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app](https://portfolio-logic.netlify.app)
 
 - 💬 Ask me about **Vue, CSS and JavaScript**
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

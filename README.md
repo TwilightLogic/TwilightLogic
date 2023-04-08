@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/lucas_wixx](https://twitter.com/lucas_wixx)
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **Vue, CSS and JavaScript**
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 

@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app/](https://portfolio-logic.netlify.app/) (building)
-
-- 📝 I regularly write articles on [https://twitter.com/lucas_wixx](https://twitter.com/lucas_wixx)
 
 - 💬 Ask me about **Vue, CSS and JavaScript**
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 
-- ⚡ Fun fact **I think I am passionate**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/twilightlogic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="twilightlogic" height="30" width="40" /></a>
-<a href="https://twitter.com/lucas_wixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_wixx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

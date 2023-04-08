@@ -9,13 +9,12 @@
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 
-- ⚡ Fun fact **passionate**
+- ⚡ Fun fact **I think I am passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/twilightlogic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="twilightlogic" height="30" width="40" /></a>
 <a href="https://twitter.com/lucas_wixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_wixx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pray 4 love" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pray 4 love" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

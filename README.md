@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app](https://portfolio-logic.netlify.app) (building)
 
-- 💬 Ask me about **Vue, CSS and JavaScript**
+- 💬 Ask me about **React, CSS and JavaScript**
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 

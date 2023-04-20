@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app](https://portfolio-logic.netlify.app) (building)
+- 👨‍💻 All of my projects are available at [https://portfolio-logic.netlify.app](https://portfolio-logic.netlify.app) (be inspired by [Call-Me-Phoenix-Blanco](https://github.com/Call-me-phoenix/css-effect-collection))
 
 - 💬 Ask me about **React, CSS and JavaScript**
 

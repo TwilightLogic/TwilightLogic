@@ -4,6 +4,8 @@
 
 - 💙 Core at **[LXDAO](https://lxdao.io/)**
 
+- 🔗 PM of **[MyfirstLayer2](https://layer2.myfirst.io/)** in the LXDAO project
+
 - 📫 How to reach me **twilightlogic@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[portfolio-logic](https://portfolio-logic.netlify.app)**

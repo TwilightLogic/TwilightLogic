@@ -4,7 +4,7 @@
 
 - 💙 Core at **[LXDAO](https://lxdao.io/)**
 
-- 🌐 PM of **[MyFirstLayer2](https://layer2.myfirst.io/)** of LXDAO
+- 🌐 PM of **[MyFirstLayer2](https://layer2.myfirst.io/)** at LXDAO
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 

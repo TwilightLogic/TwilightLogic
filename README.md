@@ -2,7 +2,7 @@
 
 ### 💡 Basic info:
 
-- 🪙 Currently work on **[Bybit](https://bybit.com/)**
+- 🪙 Frontend Developer at **[Bybit](https://bybit.com/)**
 
 - 💙 Web3 Buidler at **[LXDAO](https://lxdao.io/) | [Rooch](https://github.com/rooch-network)**
 

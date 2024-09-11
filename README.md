@@ -2,9 +2,9 @@
 
 ### 💡 Basic info:
 
-- 💙 Core at **[LXDAO](https://lxdao.io/)**
+- 🪙 Currently work on **[Bybit](https://bybit.com/)**
 
-- ⚛️ Frontend developer of **[Rooch](https://github.com/rooch-network)**
+- 💙 Web3 Buidler at **[LXDAO](https://lxdao.io/) | [Rooch](https://github.com/rooch-network)**
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 

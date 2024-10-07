@@ -4,7 +4,7 @@
 
 - 🪙 Frontend Developer at **[Bybit](https://bybit.com/)**
 
-- 💙 Web3 Buidler at **[LXDAO](https://lxdao.io/) | [Rooch](https://github.com/rooch-network)**
+- 💙 Web3 Buidler at **[LXDAO](https://lxdao.io/) | [Rooch](https://github.com/rooch-network/rooch)**
 
 - 📫 How to reach me **twilightlogic@gmail.com**
 
